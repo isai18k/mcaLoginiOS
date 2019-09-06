@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ada90cebffaab51a36f266ce5e0577b3"
+build_time: [1552602012, 808730000]
+inputs:
+  "/Users/jorgeisaigarciareyes/Documents/ProjectFreamworks/mcaLoginiOS/mcaLoginiOS/mcaLoginVC.swift": !dirty [1552329057, 0]
+  "/Users/jorgeisaigarciareyes/Documents/ProjectFreamworks/mcaLoginiOS/mcaLoginiOS/mcaLoginiOSManager.swift": !dirty [1548359118, 0]

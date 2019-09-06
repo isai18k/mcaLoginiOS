@@ -1,0 +1,177 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "mcaLoginiOSManager"
+provides-nominal:
+- "11mcaLoginiOS0aB9OSManagerC"
+provides-member:
+- ["11mcaLoginiOS0aB9OSManagerC", ""]
+provides-dynamic-lookup:
+- "launch"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "NSObject"
+- "UINavigationController"
+- "Void"
+- !private "mcaLoginVC"
+- "mcaLoginiOSManager"
+depends-member:
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "didFinishLoginWithSuccess"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "mcaLoginVC"]
+- !private ["s7CVarArgP", "pushViewController"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "didFinishLoginWithSuccess"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "mcaLoginVC"]
+- !private ["s28CustomDebugStringConvertibleP", "pushViewController"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "didFinishLoginWithSuccess"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "mcaLoginVC"]
+- !private ["s23CustomStringConvertibleP", "pushViewController"]
+- ["SQ", ""]
+- !private ["SQ", "didFinishLoginWithSuccess"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "mcaLoginVC"]
+- !private ["SQ", "pushViewController"]
+- ["SH", ""]
+- !private ["SH", "didFinishLoginWithSuccess"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "mcaLoginVC"]
+- !private ["SH", "pushViewController"]
+- !private ["So8NSCodingP", "didFinishLoginWithSuccess"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "pushViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "didFinishLoginWithSuccess"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "pushViewController"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "UINavigationController"]
+- ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "didFinishLoginWithSuccess"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "launch"]
+- !private ["So8NSObjectC", "mcaLoginVC"]
+- !private ["So8NSObjectC", "pushViewController"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "didFinishLoginWithSuccess"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "mcaLoginVC"]
+- !private ["So8NSObjectP", "pushViewController"]
+- !private ["So21UIAppearanceContainerP", "didFinishLoginWithSuccess"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "pushViewController"]
+- !private ["So18UIContentContainerP", "didFinishLoginWithSuccess"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "pushViewController"]
+- !private ["So18UIFocusEnvironmentP", "didFinishLoginWithSuccess"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "pushViewController"]
+- !private ["So22UINavigationControllerC", "pushViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "didFinishLoginWithSuccess"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "pushViewController"]
+- !private ["So11UIResponderC", "didFinishLoginWithSuccess"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "pushViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "didFinishLoginWithSuccess"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "pushViewController"]
+- !private ["So16UIStateRestoringP", "didFinishLoginWithSuccess"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "pushViewController"]
+- !private ["So19UITextFieldDelegateP", "didFinishLoginWithSuccess"]
+- !private ["So19UITextFieldDelegateP", "init"]
+- !private ["So18UITraitEnvironmentP", "didFinishLoginWithSuccess"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "pushViewController"]
+- !private ["So23UIUserActivityRestoringP", "didFinishLoginWithSuccess"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "pushViewController"]
+- !private ["So16UIViewControllerC", "didFinishLoginWithSuccess"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "pushViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didFinishLoginWithSuccess"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mcaLoginVC"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pushViewController"]
+- !private ["11mcaLoginiOS0A7LoginVCC", "deinit"]
+- !private ["11mcaLoginiOS0A7LoginVCC", "didFinishLoginWithSuccess"]
+- !private ["11mcaLoginiOS0A7LoginVCC", "init"]
+- ["11mcaLoginiOS0aB9OSManagerC", "Bool"]
+- ["11mcaLoginiOS0aB9OSManagerC", "UINavigationController"]
+- ["11mcaLoginiOS0aB9OSManagerC", "Void"]
+- ["11mcaLoginiOS0aB9OSManagerC", "init"]
+- ["11mcaLoginiOS0aB9OSManagerC", "launch"]
+- !private ["11mcaLoginiOS0aB9OSManagerC", "mcaLoginVC"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So22UINavigationControllerC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So19UITextFieldDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "11mcaLoginiOS0A7LoginVCC"
+- "11mcaLoginiOS0aB9OSManagerC"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/jorgeisaigarciareyes/Documents/ProjectFreamworks/mcaLoginiOS/mcaLoginiOS/mcaLoginiOS.h"
+- "/Users/jorgeisaigarciareyes/Documents/ProjectFreamworks/mcaLoginiOS/build/mcaLoginiOS.build/Debug-iphoneos/mcaLoginiOS.build/unextended-module.modulemap"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/libxml2/module.modulemap"
+- "/Users/jorgeisaigarciareyes/Library/Developer/Xcode/DerivedData/mcaWorkspaceiOSCL-bigcxcfytpqtfkaqvmbmiqletuvq/Build/Products/Debug-iphoneos/mcaHelpiOS.framework/Modules/module.modulemap"
+- "/Users/jorgeisaigarciareyes/Library/Developer/Xcode/DerivedData/mcaWorkspaceiOSCL-bigcxcfytpqtfkaqvmbmiqletuvq/Build/Products/Debug-iphoneos/mcaManageriOS.framework/Modules/module.modulemap"
+- "/Users/jorgeisaigarciareyes/Library/Developer/Xcode/DerivedData/mcaWorkspaceiOSCL-bigcxcfytpqtfkaqvmbmiqletuvq/Build/Products/Debug-iphoneos/mcaRecoveryPassword.framework/Modules/module.modulemap"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/Darwin.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/jorgeisaigarciareyes/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "69589e819910f4f200b5f359d67fa397"

@@ -1,0 +1,10 @@
+framework module mcaLoginiOS {
+  umbrella header "mcaLoginiOS.h"
+
+  export *
+  module * { export * }
+}
+
+module mcaLoginiOS.__Swift {
+    exclude header "mcaLoginiOS-Swift.h"
+}

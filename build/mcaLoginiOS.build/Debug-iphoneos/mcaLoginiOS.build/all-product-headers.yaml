@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jorgeisaigarciareyes/Library/Developer/Xcode/DerivedData/mcaWorkspaceiOSCL-bigcxcfytpqtfkaqvmbmiqletuvq/Build/Products/Debug-iphoneos/mcaLoginiOS.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "mcaLoginiOS-Swift.h",
+          'external-contents': "/Users/jorgeisaigarciareyes/Library/Developer/Xcode/DerivedData/mcaWorkspaceiOSCL-bigcxcfytpqtfkaqvmbmiqletuvq/Build/Products/Debug-iphoneos/mcaLoginiOS.framework/Headers/mcaLoginiOS-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "mcaLoginiOS.h",
+          'external-contents': "/Users/jorgeisaigarciareyes/Documents/ProjectFreamworks/mcaLoginiOS/mcaLoginiOS/mcaLoginiOS.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jorgeisaigarciareyes/Library/Developer/Xcode/DerivedData/mcaWorkspaceiOSCL-bigcxcfytpqtfkaqvmbmiqletuvq/Build/Products/Debug-iphoneos/mcaLoginiOS.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jorgeisaigarciareyes/Documents/ProjectFreamworks/mcaLoginiOS/build/mcaLoginiOS.build/Debug-iphoneos/mcaLoginiOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
